@@ -60,7 +60,8 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app); ```
+const analytics = getAnalytics(app); 
+```
 5. Copy the const firebaseConfig = { and all the info inside of it} on your firebase page and paste it on the To-do project: "src->firebaseConnection.jsx".
 6. Done, now your own firebase page should be configured properly :)!
 
