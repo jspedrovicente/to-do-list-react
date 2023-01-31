@@ -1,0 +1,75 @@
+.admin-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.admin-container h1{
+    display: flex;
+    align-items: center;
+}
+.admin-container .admin-add{
+    padding: 11px 15px;
+    border-radius: 50px;
+    background-color: rgb(223, 223, 89);
+    border: 1.5px solid black;
+    margin-left: 10px;
+    transition: .5s all ease;
+    cursor: pointer;
+}
+.admin-add:hover{
+    opacity: .7;
+}
+
+.rodal-ccss .rodal-dialog{
+    color: black;
+    background-color: rgb(223, 223, 89);
+    font-weight: 600;
+    max-width: 400px;
+    width: auto !important;
+}
+.new-task-form{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.submit{
+    padding: 5px 0px;
+    bottom: 0;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 40px;
+    transition: all .5s ease;
+}
+.submit:hover{
+    cursor: pointer;
+    opacity: .7;
+}
+.new-task-form label, .new-task-form input{
+    margin: 5px 0px;
+    font-size: .9rem;
+}
+.new-task-form input{
+    padding: 4px 0px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 2px;
+}
+.logout-button{
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 15px 5px;
+    border-radius: 50%;
+    font-size: .6rem;
+    border: 1px solid black;
+    background: rgb(152, 7, 7);
+    color: white;
+    transition: all ease .5s;
+}
+.logout-button:hover{
+    cursor: pointer;
+    opacity: .7;
+}
