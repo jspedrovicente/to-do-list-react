@@ -1,6 +1,5 @@
 # Movies-Flix
 
-This project grabs movies that are currently now playing on theater and allows users to like/dislike, watch trailers and read information about the movie.
 This project allows you to create an account on my firebase server, then allows you to create tasks ordered by most recent and either complete it or delete it! 
 It is completely linked to your account.
 
@@ -10,7 +9,7 @@ Toastify for notification
 Firebase as the database
 Rodal for the pop-up in the Admin panel
 
-This project was created to practice the use of authentications, APIS, firebase, flow of pages, hooks and components properly.
+####This project was created to practice the use of authentications, APIS, firebase, flow of pages, hooks and components properly.
 ------------------------------------------------------------------------
 
 ## How to Install:
@@ -33,6 +32,7 @@ This project was created to practice the use of authentications, APIS, firebase,
 
 ### Or If you just want to see the project working, it is currently on netlify:
 https://to-do-list-react-jvdev.netlify.app/
+
 ------------------------------------------------------------------------
 ##Important:
 This project is hooked up to my firebase as it was created with that intent, so to connect your own database, follow these steps:
