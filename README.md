@@ -1,4 +1,4 @@
-# Movies-Flix
+# To-Do List by José Vicente
 
 This project allows you to create an account on my firebase server, then allows you to create tasks ordered by most recent and either complete it or delete it! 
 It is completely linked to your account.
