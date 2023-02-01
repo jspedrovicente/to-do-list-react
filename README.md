@@ -9,7 +9,7 @@ Toastify for notification
 Firebase as the database
 Rodal for the pop-up in the Admin panel
 
-###This project was created to practice the use of authentications, APIS, firebase, flow of pages, hooks and components properly.
+This project was created to practice the use of authentications, APIS, firebase, flow of pages, hooks and components properly.
 ------------------------------------------------------------------------
 
 ## How to Install:
