@@ -34,7 +34,7 @@ This project was created to practice the use of authentications, APIS, firebase,
 https://to-do-list-react-jvdev.netlify.app/
 
 ------------------------------------------------------------------------
-##Important:
+## Important:
 This project is hooked up to my firebase as it was created with that intent, so to connect your own database, follow these steps:
 1. Go to ```https://firebase.google.com/``` and create an account.
 2. After creating, go to console and create your own project.
